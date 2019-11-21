@@ -7,9 +7,11 @@ void print() {
 
 // add by a
 
+<<<<<<< HEAD
 
 void main()
 { char Name[40], G[5], answer[10];
+>>>>>>> c808ae0996879d1d36578985df0d140b9556c1b7
   int i;
   do
   {
@@ -53,6 +55,4 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
-  
-  printf("TEST GIT NAJA");
 }
