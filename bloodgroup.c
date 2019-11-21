@@ -5,7 +5,7 @@ void main()
 
 // add comment by USER A
 
-char Name[40], G[5], answer[10];
+char Name[40], G[6], answer[9];
   int i;
   do
   {
@@ -49,6 +49,4 @@ char Name[40], G[5], answer[10];
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
-  
-  printf("TEST GIT NAJA");
 }
