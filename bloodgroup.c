@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <string.h>
 void main()
-{ char Name[40], G[5], answer[10];
+{ 
+
+// add comment by USER A
+
+char Name[40], G[5], answer[10];
   int i;
   do
   {
