@@ -1,11 +1,15 @@
 #include <stdio.h>
 #include <string.h>
+
+void print() {
+	printf("edit from B");
+}
+
+// add by a
+
+
 void main()
-{ 
-
-// add comment by USER A
-
-char Name[40], G[5], answer[10];
+{ char Name[40], G[5], answer[10];
   int i;
   do
   {
