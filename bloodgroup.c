@@ -45,4 +45,6 @@ void main()
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
+  
+  printf("TEST GIT NAJA");
 }
