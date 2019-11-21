@@ -49,4 +49,6 @@ char Name[40], G[5], answer[10];
     scanf("%s", answer);
   } while (strcmp(answer, "YES") == 0);
   printf("Goodbye\n");
+  
+  printf("TEST GIT NAJA");
 }
